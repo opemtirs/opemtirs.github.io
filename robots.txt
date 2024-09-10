@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://opemtirs.github.io/sitemap/sitemap.txt
